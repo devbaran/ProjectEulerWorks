@@ -8,6 +8,7 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 
 int greatNumber = 0;
+
 for (int i = 100; i < 1000; i++)
 {
     for (int a = 100; a < 1000; a++)
